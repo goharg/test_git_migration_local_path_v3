@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGitMigrationProject", "TestGitMigrationProject\TestGitMigrationProject.csproj", "{D159D7E2-6FC7-47CA-9F2C-3725970E6045}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://xavier:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestGitMigrationProject\\TestGitMigrationProject.csproj
+		SccProjectName1 = TestGitMigrationProject
+		SccLocalPath1 = TestGitMigrationProject
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D159D7E2-6FC7-47CA-9F2C-3725970E6045}.Debug|x86.ActiveCfg = Debug|x86
+		{D159D7E2-6FC7-47CA-9F2C-3725970E6045}.Debug|x86.Build.0 = Debug|x86
+		{D159D7E2-6FC7-47CA-9F2C-3725970E6045}.Release|x86.ActiveCfg = Release|x86
+		{D159D7E2-6FC7-47CA-9F2C-3725970E6045}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
