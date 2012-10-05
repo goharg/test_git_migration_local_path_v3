@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TestGitMigrationProject
 {
-    class NewClass
+    class MyFile
     {
     }
 }
