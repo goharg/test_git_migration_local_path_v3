@@ -10,6 +10,7 @@ namespace TestGitMigrationProject
         static void Main(string[] args)
         {
             Console.WriteLine("Line of code added");
+            Console.WriteLine("A second line added........");
         }
     }
 }
